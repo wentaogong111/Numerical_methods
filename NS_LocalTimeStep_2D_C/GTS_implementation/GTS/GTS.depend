@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1467636654 source:e:\billphysics\lst2\gts_implementation\main.c
+	<stdio.h>
+	<stdlib.h>
+	"computeFlux.h"
+	"macroDefinition.h"
+	"updateFlux.h"
+	"visual.h"
+
+1467636654 e:\billphysics\lst2\gts_implementation\computeflux.h
+
+1467636654 e:\billphysics\lst2\gts_implementation\macrodefinition.h
+
+1467636654 e:\billphysics\lst2\gts_implementation\updateflux.h
+
+1467636654 e:\billphysics\lst2\gts_implementation\visual.h
+
+1467636654 source:e:\billphysics\lst2\gts_implementation\computeflux.c
+	"computeFlux.h"
+	"computeRoeSolver.h"
+	<math.h>
+	<stdio.h>
+
+1467636654 e:\billphysics\lst2\gts_implementation\computeroesolver.h
+
+1467636654 source:e:\billphysics\lst2\gts_implementation\computeroesolver.c
+	"computeRoeSolver.h"
+	"macroDefinition.h"
+	<math.h>
+	<stdio.h>
+
+1467636654 source:e:\billphysics\lst2\gts_implementation\helper.c
+	<ctype.h>
+	<errno.h>
+	<stdio.h>
+	"helper.h"
+
+1467636654 e:\billphysics\lst2\gts_implementation\helper.h
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<math.h>
+	<string.h>
+	<float.h>
+	<time.h>
+
+1467636654 source:e:\billphysics\lst2\gts_implementation\updateflux.c
+
+1467636654 source:e:\billphysics\lst2\gts_implementation\visual.c
+	"helper.h"
+	"visual.h"
+	<stdio.h>
+
